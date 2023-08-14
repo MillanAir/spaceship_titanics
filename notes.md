@@ -12,4 +12,4 @@
 6. *Name* - fname and lname (I can check family members here)
 7. Predicting *Transported*
 8. *Surname* - I can take surname out of name
-9. 
+9. *total_money_spent* vs transported, person was heavy spender?
