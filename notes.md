@@ -13,3 +13,4 @@
 7. Predicting *Transported*
 8. *Surname* - I can take surname out of name
 9. *total_money_spent* vs transported, person was heavy spender?
+10. 
